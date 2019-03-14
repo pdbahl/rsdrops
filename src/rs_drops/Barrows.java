@@ -10,7 +10,7 @@ public class Barrows {
 		int[] sets = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
 
 		Random rand = new Random();
-		int accounts = 10000000;
+		int accounts = 100000;
 		int roll;
 		int drop;
 		int counter = 0;
